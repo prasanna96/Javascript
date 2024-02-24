@@ -19,6 +19,8 @@ let isLoggedIn = false
 //but undefined is a normal identifier that happens to be a global property. 
 //symbol ==> unique
 
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
+
 //---------------
 
 //object--------
